@@ -1,0 +1,103 @@
+{
+  "timeZone": "Asia/Kolkata",
+  "dependencies": {
+  },
+  "webapp": {
+    "access": "ANYONE_ANONYMOUS",
+    "executeAs": "USER_DEPLOYING"
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "oauthScopes": ["https://www.googleapis.com/auth/script.external_request", "https://www.googleapis.com/auth/userinfo.email", "https://www.googleapis.com/auth/spreadsheets.currentonly", "https://www.googleapis.com/auth/spreadsheets", "https://www.googleapis.com/auth/script.container.ui", "https://www.googleapis.com/auth/drive.readonly", "https://www.googleapis.com/auth/drive"],
+  "runtimeVersion": "V8",
+  "sheets": {
+    "macros": [{
+      "menuName": "Untitled macro1",
+      "functionName": "Untitledmacro1"
+    }, {
+      "menuName": "Untitled macro2",
+      "functionName": "Untitledmacro2"
+    }, {
+      "menuName": "FormatDateFull",
+      "functionName": "FormatDateFull"
+    }, {
+      "menuName": "FormatFirstRow",
+      "functionName": "FormatFirstRow"
+    }, {
+      "menuName": "del",
+      "functionName": "del1"
+    }, {
+      "menuName": "SetStatusValidation",
+      "functionName": "SetStatusValidation"
+    }, {
+      "menuName": "MoveRowsUpDown",
+      "functionName": "MoveRowsUpDown"
+    }, {
+      "menuName": "DelSort",
+      "functionName": "DelSort"
+    }, {
+      "menuName": "SortColumnByJobFrequency",
+      "functionName": "SortColumnByJobFrequency"
+    }, {
+      "menuName": "FormatPage",
+      "functionName": "FormatPage"
+    }, {
+      "menuName": "HideColumns1",
+      "functionName": "HideColumns1"
+    }, {
+      "menuName": "FormatRowHeights",
+      "functionName": "FormatRowHeights"
+    }, {
+      "menuName": "ClipContent",
+      "functionName": "ClipContent"
+    }, {
+      "menuName": "ffbathu",
+      "functionName": "ffbathu"
+    }, {
+      "menuName": "ffbathu1",
+      "functionName": "ffbathu1"
+    }, {
+      "menuName": "ffbathu2",
+      "functionName": "ffbathu2"
+    }, {
+      "menuName": "delworkCreateNewJob",
+      "functionName": "delworkCreateNewJob"
+    }, {
+      "menuName": "fnSetTitle",
+      "functionName": "fnSetTitle"
+    }, {
+      "menuName": "fnLockRange",
+      "functionName": "fnLockRange"
+    }, {
+      "menuName": "MacroAddNewRowBelow",
+      "functionName": "MacroAddNewRowBelow",
+      "defaultShortcut": "Ctrl+Alt+Shift+1"
+    }, {
+      "menuName": "SortColumnByJobFrequency",
+      "functionName": "SortColumnByJobFrequency"
+    }, {
+      "menuName": "GotoFirst",
+      "functionName": "GotoFirst"
+    }, {
+      "menuName": "moverow3",
+      "functionName": "moverow3"
+    }, {
+      "menuName": "Cut5",
+      "functionName": "Cut5"
+    }, {
+      "menuName": "Add5row",
+      "functionName": "Add5row"
+    }, {
+      "menuName": "SetF",
+      "functionName": "SetF"
+    }, {
+      "menuName": "Del_FormatCellWrapHeightAuto",
+      "functionName": "Del_FormatCellWrapHeightAuto"
+    }, {
+      "menuName": "Del_ChangeSingleCharInCell",
+      "functionName": "Del_ChangeSingleCharInCell"
+    }, {
+      "menuName": "Untitled7866",
+      "functionName": "Untitled7866"
+    }]
+  }
+}
